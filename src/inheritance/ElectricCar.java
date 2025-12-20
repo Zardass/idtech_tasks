@@ -1,3 +1,5 @@
+package inheritance;
+
 public class ElectricCar extends Car {
 
     public void chargeBattery(){

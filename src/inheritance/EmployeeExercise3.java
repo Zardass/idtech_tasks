@@ -1,3 +1,5 @@
+package inheritance;
+
 public  abstract class EmployeeExercise3 {
     private String name;
     private String surname;
