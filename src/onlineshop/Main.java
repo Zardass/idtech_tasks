@@ -10,5 +10,6 @@ public class Main {
         cart.addItem(phone,2);
         cart.addItem(laptop,3);
         cart.getTotalPrice();
+        cart.removeItem(phone,1);
     }
 }

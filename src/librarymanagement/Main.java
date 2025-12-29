@@ -15,6 +15,7 @@ public class Main {
 
         book.borrow();
 
+        book.returnBook();
         library.showAvailableBooks();
 
 
