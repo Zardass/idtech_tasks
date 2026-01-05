@@ -15,7 +15,7 @@ public class ElectronicsProduct {
             System.out.println("price with discount percentage: " + price);
         }
         else{
-            System.out.println("Invalid discount percentage");
+            System.out.println("Invalid discount percentage!!");
         }
     }
 
