@@ -1,3 +1,5 @@
+package month1;
+
 public class WashingMachine extends ElectronicsProduct{
     private int warrantyPeriod;
 

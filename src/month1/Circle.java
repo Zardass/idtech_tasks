@@ -1,3 +1,5 @@
+package month1;
+
 public class Circle extends Shape{
     private double radius;
 
@@ -7,6 +9,6 @@ public class Circle extends Shape{
 
     @Override
     public void area() {
-        System.out.println("Area of Circle " + Math.PI *radius * radius);
+        System.out.println("Area of month1.Circle " + Math.PI *radius * radius);
     }
 }

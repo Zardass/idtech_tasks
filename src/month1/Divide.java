@@ -1,3 +1,5 @@
+package month1;
+
 import exception.InvalidException;
 
 public class Divide {

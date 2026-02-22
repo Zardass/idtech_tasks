@@ -1,3 +1,5 @@
+package month1;
+
 public class Rectangle extends Shape{
     private double side1;
     private double side2;
@@ -9,6 +11,6 @@ public class Rectangle extends Shape{
 
     @Override
     public void area() {
-        System.out.println("Area of Rectangle " + side1*side2);
+        System.out.println("Area of month1.Rectangle " + side1*side2);
     }
 }

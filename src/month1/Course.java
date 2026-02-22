@@ -1,3 +1,5 @@
+package month1;
+
 public class Course {
     private String courseName;
     private String instructor;

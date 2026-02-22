@@ -1,3 +1,5 @@
+package month1;
+
 public class OnlineCourse  extends Course {
         private String platform;
         private int duration;

@@ -1,3 +1,5 @@
+package month1;
+
 public class ElectronicsProduct {
     private int productId;
     private String name;
@@ -21,7 +23,7 @@ public class ElectronicsProduct {
 
     @Override
     public String toString() {
-        return "ElectronicsProduct{" +
+        return "month1.ElectronicsProduct{" +
                 "productId=" + productId +
                 ", name='" + name + '\'' +
                 ", price=" + price +
