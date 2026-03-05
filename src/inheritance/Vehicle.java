@@ -1,0 +1,9 @@
+package inheritance;
+
+public class Vehicle {
+
+    public void move(){
+        System.out.println("...moving");
+    }
+
+}
